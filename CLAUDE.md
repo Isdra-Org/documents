@@ -14,6 +14,9 @@ standing permissions are in `CLAUDE.local.md` (git-ignored) - read it at the sta
 - John K. Gates (ISDRA's Data and Technology Manager) sets the order of work; one loose end at a time.
 - At the start of a session: `gh issue list --repo Isdra-Org/documents`, and read `CLAUDE.local.md`.
 - Push policy: commit and push routine changes yourself; **ask before creating releases or issues**.
+- `main` has a GitHub ruleset, "Protect main" (2026-10-08): no force pushes, no deletion, for everyone including admins.
+  Never rewrite pushed history; fix mistakes with a new commit. Pull requests aren't required (yet). Only John and
+  Max Friel (the other website developer) have write access; the wiki and Projects are turned off.
 - Commits: author John K. Gates `<john.gates@isdra.org>` (set in this repo's local git config), ending with
   `Co-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>`. Run `git pull --rebase` before committing; John
   sometimes edits on GitHub.
