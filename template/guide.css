@@ -1,4 +1,5 @@
-/* Print stylesheet for "Configuring Excel for RaceWorks" (used by build-pdf.sh via WeasyPrint).
+/* Shared print stylesheet for ISDRA guides (used by template/build-guide.sh via WeasyPrint).
+   A guide can add or override rules in its own guide-extra.css, which is loaded after this file.
    Look and feel follows isdra.org (checked 2026-10-02):
      primary blue #1644DF, navy #0D2986 (the logo gradient runs between these two), amber #FFB526,
      headings Oswald 500 (section headings uppercase in navy), body text Poppins in #212529.
@@ -98,4 +99,3 @@ span.todo { background: #FFF3A0; color: #5C4A00; padding: 0 0.25em; font-size: 0
 /* Keep a step's lead-in sentence with the picture that follows it */
 p:has(+ figure) { break-after: avoid; }
 h1 + p, h2 + p { break-after: avoid; }   /* a heading's one-line intro stays with what follows it */
-h1#getting-help { break-before: page; }   /* contact details + IT reference together on the last page */

@@ -1,0 +1,2 @@
+/* Additions to template/guide.css for this guide only. */
+h1#getting-help { break-before: page; }   /* contact details + IT reference together on the last page */
