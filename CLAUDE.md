@@ -71,6 +71,10 @@ is adopted here:
    file, title, `updated` text, what changed) and give it to John to paste there, or send it if that session is
    reachable.
 
+Published **guides** go to the website the same way (from 2026-10-08): a new version gets a new dated file name
+(RaceWorks guides: named after the RaceWorks version, e.g. `Configuring_Excel_for_RaceWorks_2026.1.pdf`), and the
+guide's issue records the final URL.
+
 ## RaceWorks guides and RaceWorks versions
 
 RaceWorks is maintained in the private repo `Isdra-Org/raceworks`, in its own Claude session
