@@ -1,7 +1,7 @@
 ---
 title: Configuring Excel for RaceWorks
 subtitle: One-time setup for RaceWorks users
-date: "Version 2026-10-03"
+date: "Version 2026-10-08, for RaceWorks 2026.1"
 lang: en-US
 ---
 
@@ -12,6 +12,8 @@ handle event and driver entry, draw, scheduling, timing and results reporting. O
 a few settings changed once, on each computer you time with. This guide walks you through them.
 
 It takes about ten minutes. You do it once per computer, not once per race.
+
+This guide describes **RaceWorks 2026.1**. Where earlier versions behave differently, it says so.
 
 ::: note
 **Tested on:** Excel 2013 (32-bit) on Windows 11. Newer versions of Excel (2016, 2019, 2021,
@@ -115,7 +117,7 @@ In the Trust Center, click **Macro Settings** on the left, then:
    normal default. (In newer Excel it reads *Disable VBA macros with notification*.) You do
    **not** need *Enable all macros*: the Trusted Location in Step 5 lets RaceWorks run.
 2. Under *Developer Macro Settings*, leave **Trust access to the VBA project object model**
-   **unticked**. RaceWorks doesn't need it. (Older versions of RaceWorks do: if Excel freezes
+   **unticked**. RaceWorks doesn't need it. (Versions before 2026.1 may: if Excel freezes
    while RaceWorks starts, see *Troubleshooting*.)
 
 ![Trust Center - Macro Settings](05-macro-settings.png)
@@ -299,8 +301,8 @@ by IP address, or opened from somewhere other than your RaceWorks folder. Don't 
 ![The Protected View bar](15-protected-view-bar.png)
 
 If you do click *Enable Editing* (and *Enable Content*), RaceWorks may not be able to load
-its toolbars. Current versions then show the message below and close the RaceWorks file
-(your other workbooks stay open); older versions stop with *Run-time error '91'*. Either
+its toolbars. RaceWorks 2026.1 then shows the message below and closes the RaceWorks file
+(your other workbooks stay open); earlier versions may stop with *Run-time error '91'*. Either
 way, open RaceWorks again from your RaceWorks folder.
 
 ![The "toolbars could not be loaded" message](16-toolbars-not-loaded-message.png)
@@ -328,9 +330,9 @@ file. Excel asks again if the file is renamed, moved or replaced, which happens 
    take a few seconds. Any unsaved work in other open Excel files is lost.
 3. Start Excel **on its own**, from the Start menu, not by opening the RaceWorks file. If Excel
    offers to recover RaceWorks in a *Document Recovery* pane, close the pane without opening it.
-4. **Older versions of RaceWorks only** freeze like this when **Trust access to the VBA project
-   object model** is unticked. Ask the maintainer for the current version. To keep using the
-   older one in the meantime: open a **Blank workbook**, tick that setting (Steps 2 and 3, item 2),
+4. **Versions of RaceWorks before 2026.1** can freeze like this when **Trust access to the VBA
+   project object model** is unticked. Ask the maintainer for the current version. To keep using
+   the older one in the meantime: open a **Blank workbook**, tick that setting (Steps 2 and 3, item 2),
    click OK twice, and close Excel.
 5. Now open RaceWorks from your RaceWorks folder.
 
@@ -348,7 +350,7 @@ that have stayed behind, open a RaceWorks file on its own and then close it.
 **A "Microsoft Excel Security Notice" says *Automatic update of links has been disabled*.**
 Click **Disable**. If this happens when you click a RaceWorks toolbar button, the toolbars are
 left over from another copy of RaceWorks and are trying to run that copy. Close Excel, then
-open the RaceWorks file you want to use on its own. (Newer versions of RaceWorks fix this
+open the RaceWorks file you want to use on its own. (RaceWorks 2026.1 fixes this
 automatically.)
 
 **RaceWorks says this copy has expired.**
@@ -379,7 +381,7 @@ These settings are per user, in the registry under
 | Setting                                      | Registry value                                                                                                                                |
 | -------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
 | Macro setting                                | `VBAWarnings`: 1 = enable all, 2 = disable with notification (default), 3 = disable except digitally signed, 4 = disable without notification |
-| Trust access to the VBA project object model | `AccessVBOM`: leave at 0 (off). Older versions of RaceWorks need 1                                                                            |
+| Trust access to the VBA project object model | `AccessVBOM`: leave at 0 (off). RaceWorks versions before 2026.1 may need 1                                                                    |
 | Allow Trusted Locations on my network        | `Trusted Locations\AllowNetworkLocations` = 1                                                                                                 |
 | A Trusted Location                           | `Trusted Locations\Location<n>\Path`, plus `AllowSubfolders` = 1                                                                              |
 
