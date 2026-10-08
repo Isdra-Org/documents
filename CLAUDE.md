@@ -1,7 +1,7 @@
 # ISDRA documents
 
-ISDRA's documents under configuration management: **guides** (RaceWorks users, clubs/RGOs, others; Markdown + PNG
-built into PDFs with a shared template) and ISDRA's **official documents** (rules, sanctioning requirements, programs,
+ISDRA's documents under configuration management: **guides** in `guides\` (RaceWorks users, clubs/RGOs, others;
+Markdown + PNG built into PDFs with the shared `template\`) and ISDRA's **official documents** (rules, sanctioning requirements, programs,
 policies, the constitution, forms). See `README.md` for the layout and how to add a guide, and `docs/inventory.md`
 for every official document, its versions and its file name on the website.
 
