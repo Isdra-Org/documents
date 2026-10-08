@@ -26,7 +26,7 @@ that trouble.
 
 - **When:** as soon as possible, and no later than **24 hours after the final heat** (ISDRA Sanctioning Requirements
   and Standards, section K).
-- **How:** by email, to the address in *Getting help* at the end of this guide.
+- **How:** by email, to [raceresults@isdra.org](mailto:raceresults@isdra.org).
 - **Format:** any electronic format is fine (a spreadsheet, a timing program's export, or a RaceWorks workbook), as
   long as it contains everything listed in this guide. Please don't send photos or scans of paper results.
 - If you timed with **RaceWorks**, you can simply send the workbook. Check it first against the checklist below,
@@ -188,9 +188,9 @@ also change the seed list used later in the season, and with it the points for l
 
 For questions about results, or to send them:
 
-**John K. Gates**, Data and Technology Manager  
-Email: [john.gates@isdra.org](mailto:john.gates@isdra.org)  
-Phone: 315-725-1664
+Email: [raceresults@isdra.org](mailto:raceresults@isdra.org)
+
+This address reaches **John K. Gates**, Data and Technology Manager, who can also be reached by phone at 315-725-1664.
 
 Thank you. Much of this may seem like a lot of detail, but each item helps us put the right points in the right place,
 and saves everyone corrections later.

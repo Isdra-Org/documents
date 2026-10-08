@@ -31,8 +31,8 @@ standing permissions are in `CLAUDE.local.md` (git-ignored) - read it at the sta
 - The race groups are **All Breed**, **Registered Breed** and **Sportsman**. Always "Sportsman", never the shortening
   "Sport", which crept in somewhere and causes confusion (John, 2026-10-08).
 - Results and questions about them go to John K. Gates, **Data and Technology Manager** (john.gates@isdra.org), not
-  the Executive Director (the sanctioning rules' wording is outdated). A forwarding address **results@isdra.org** is
-  planned; switch the guides to it once it works (documents#2).
+  the Executive Director (the sanctioning rules' wording is outdated; documents#7). Guides give the address
+  **raceresults@isdra.org** (forwards to John, set up 2026-10-08), not his personal address, for anything about results.
 - Draft aids (`::: placeholder`, `[...]{.todo}`) and "DRAFT" in the `date` must be gone before a guide is published.
 
 ## Official documents (agreed with John, 2026-10-08)
