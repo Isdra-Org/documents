@@ -161,12 +161,10 @@ not the same person, but an ID, or even a note that one of them is a current mem
 - Include IDs only for **current** members. Don't include an ID for a non-member, or for a member whose membership has
   expired.
 - To find an ID, search the [musher directory](https://isdra.org/mushers) and open the member's profile. The ID is the
-  20-character string of letters and numbers just under the name, in the blue bar. It's also the last part of the
-  profile page's web address.
+  20-character string of letters and numbers labeled **MusherID**, just under the name in the blue bar. It also
+  appears in the profile page's web address, between `/mushers/` and `/race-record`.
 
-::: placeholder
-**Screenshot to come:** a member's profile page on isdra.org, with the ISDRA ID under the name in the blue bar circled.
-:::
+![A member's profile page on isdra.org, with the ISDRA ID circled under the name and in the web address](isdra-id.png){height=2.3in}
 
 # Unsanctioned classes
 
