@@ -73,10 +73,18 @@ is adopted here:
 
 ## RaceWorks guides and RaceWorks versions
 
-RaceWorks is maintained in the private repo `Isdra-Org/raceworks`. Guides about RaceWorks state the RaceWorks version
-they describe (e.g. "For RaceWorks 2026.1"). A RaceWorks change that alters what users see is labeled `docs-impact`
-there and linked to an issue here (`Isdra-Org/documents#N`). At each RaceWorks release, every RaceWorks guide is checked
-against it.
+RaceWorks is maintained in the private repo `Isdra-Org/raceworks`, in its own Claude session
+(`I:\Raceworks\Maintenance Project`). Guides about RaceWorks state the RaceWorks version they describe (e.g. "For
+RaceWorks 2026.1"). Issues are the hand-off between the two sessions, in both directions:
+
+- **From RaceWorks:** a RaceWorks change that alters what users see, or a finding that an official document is out of
+  date, unclear or contradictory, arrives here as an issue labeled `raceworks`, linked to the RaceWorks issue (labeled
+  `docs-impact` there). At each RaceWorks release, every RaceWorks guide is checked against it.
+- **To RaceWorks:** when an adopted change to an official document affects RaceWorks (classes, minimum distances,
+  fees, points formula or class factors, groups, seeding), open an issue in `Isdra-Org/raceworks` labeled
+  `docs-impact`, naming the document, the version and the change. RaceWorks implements these rules, so it must
+  follow them. A draft that isn't adopted yet doesn't need an issue, but it's worth a heads-up to John.
+- Ask John before creating issues in either repo.
 
 ## Building
 
