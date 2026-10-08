@@ -34,12 +34,35 @@ guides/<Guide name>/
 
 ## Building a guide
 
-Requires Pandoc, WeasyPrint and the Oswald font (Fedora: `sudo dnf install pandoc weasyprint vernnobile-oswald-fonts`).
-Poppins is included in `template/fonts/`.
+Guides are built on Linux. Each guide's `build-pdf.sh` calls `template/build-guide.sh`, which runs Pandoc to turn
+the Markdown into HTML with `template/guide.css` (plus the guide's `guide-extra.css`, if any) and the screenshots
+embedded, and WeasyPrint to turn that into the PDF.
 
 ```bash
 bash "guides/Submitting Race Results to ISDRA/build-pdf.sh"
 ```
+
+### Requirements
+
+| Needed for | What | Fedora package | Tested with |
+|---|---|---|---|
+| Markdown to HTML | Pandoc | `pandoc-cli` | 3.7.0.2 |
+| HTML to PDF | WeasyPrint | `weasyprint` | 69.0 |
+| Headings | Oswald (Medium) | `vernnobile-oswald-fonts` | 4.101 |
+| Code, paths, condensed fallback | DejaVu Sans Mono, DejaVu Sans (Condensed) | `dejavu-sans-mono-fonts`, `dejavu-sans-fonts` | 2.37 |
+| Body text | Poppins | none: included in `template/fonts/` | |
+| Checking a PDF (optional) | `pdfinfo`, `pdffonts`, `pdftotext`, `pdfimages` | `poppler-utils` | 26.01 |
+| Running the scripts | Bash, coreutils (`readlink -f`) | (standard) | |
+
+Tested on Fedora 44. To set up a Fedora machine:
+
+```bash
+sudo dnf install pandoc-cli weasyprint vernnobile-oswald-fonts dejavu-sans-mono-fonts dejavu-sans-fonts poppler-utils
+```
+
+If a font is missing, WeasyPrint quietly uses a fallback (`guide.css` lists one for each font), so the PDF builds but
+looks wrong. After a build, `pdffonts <file>.pdf` should list Oswald-Medium and Poppins (and DejaVu Sans Mono if the
+guide has code or paths).
 
 ## Adding a guide
 
