@@ -11,6 +11,10 @@ beyond what a guide needs. Local machine details are in `CLAUDE.local.md` (git-i
 - **RaceWorks** (capital W) in prose. Quote real paths and file names exactly.
 - Guides speak for ISDRA in the "we" voice where it fits; plain, friendly, no blame.
 - Say **DTCC** for a class's Division / Type / Class / Category once it has been explained.
+- The race groups are **All Breed**, **Registered Breed** and **Sportsman**. Always "Sportsman", never the shortening
+  "Sport", which crept in somewhere and causes confusion (John, 2026-10-08).
+- Results and questions about them go to John K. Gates (john.gates@isdra.org), not the Executive Director (the
+  sanctioning rules' wording is outdated).
 - Draft aids (`::: placeholder`, `[...]{.todo}`) and "DRAFT" in the `date` must be gone before a guide is published.
 
 ## RaceWorks guides and RaceWorks versions

@@ -27,7 +27,6 @@ that trouble.
 - **When:** as soon as possible, and no later than **24 hours after the final heat** (ISDRA Sanctioning Requirements
   and Standards, section K).
 - **How:** by email, to the address in *Getting help* at the end of this guide.
-  [Confirm the recipient: the sanctioning rules say results go to the Executive Director.]{.todo}
 - **Format:** any electronic format is fine (a spreadsheet, a timing program's export, or a RaceWorks workbook), as
   long as it contains everything listed in this guide. Please don't send photos or scans of paper results.
 - If you timed with **RaceWorks**, you can simply send the workbook. Check it first against the checklist below,
@@ -40,7 +39,7 @@ Before you send results, check that they include:
 | Item | What we need |
 |---|---|
 | Classes | Every entry clearly assigned to one sanctioned class (Division, Type, Class, Category) |
-| Groups | For grouped classes, each entry's group: All Breed, Registered Breed or Sport |
+| Groups | For grouped classes, each entry's group: All Breed, Registered Breed or Sportsman |
 | Entries | The **full** list of entries in each class, including drivers who didn't run, didn't finish or were disqualified |
 | Times | An elapsed time **or** DNR, DNF or DQ for every entry, for every day |
 | Mileage | The **actual** miles run, for every class, for every day |
@@ -82,9 +81,9 @@ If a class was run with groups, show each entry's group:
 
 - **All Breed**
 - **Registered Breed**
-- **Sport** (sometimes called Sportsman)
+- **Sportsman**
 
-All Breed and Sport are treated the same for points, but Registered Breed is not, and all three are shown separately
+All Breed and Sportsman are treated the same for points, but Registered Breed is not, and all three are shown separately
 when results are published on the website.
 
 Results are often sent as separate tables per group, such as "4 dog rig All Breed" and "4 dog rig Registered Breed".
@@ -132,7 +131,7 @@ enough teams entered to pay every advertised place.
 **If a class had no purse, say so.** Purse is the item most often left out of results, so we can't tell a missing purse
 from no purse.
 
-Purses aren't usually awarded to the Sport group or to junior classes. The rules don't forbid it, and some RGOs do, but
+Purses aren't usually awarded to the Sportsman group or to junior classes. The rules don't forbid it, and some RGOs do, but
 the usual practice is not to award purses to juniors.
 
 ::: note
