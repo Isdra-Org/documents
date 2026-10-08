@@ -187,7 +187,7 @@ also change the seed list used later in the season, and with it the points for l
 
 For questions about results, or to send them:
 
-**John K. Gates**  
+**John K. Gates**, Data and Technology Manager  
 Email: [john.gates@isdra.org](mailto:john.gates@isdra.org)  
 Phone: 315-725-1664
 

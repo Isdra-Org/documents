@@ -361,7 +361,7 @@ maintainer for a current copy.
 
 Contact the RaceWorks maintainer:
 
-**John K. Gates**  
+**John K. Gates**, Data and Technology Manager  
 Email: [john.gates@isdra.org](mailto:john.gates@isdra.org)  
 Phone: 315-725-1664
 
