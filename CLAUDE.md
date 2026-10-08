@@ -80,5 +80,6 @@ against it.
 
 ## Building
 
-Build on the Linux build host with the guide's `build-pdf.sh`, then check the PDF (pages, fonts with `pdffonts`,
-text with `pdftotext`). Commit the PDF with the source.
+Build on the Linux build host with the guide's `build-pdf.sh` (requirements: README "Building a guide"), then check
+the PDF (pages, fonts with `pdffonts`, text with `pdftotext`). Commit the PDF with the source, but don't commit a
+rebuild whose text is unchanged (it differs only by a timestamp).
