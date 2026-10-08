@@ -83,8 +83,8 @@ If a class was run with groups, show each entry's group:
 - **Registered Breed**
 - **Sportsman**
 
-All Breed and Sportsman are treated the same for points, but Registered Breed is not, and all three are shown separately
-when results are published on the website.
+All Breed and Sportsman are treated as one large group for standings, but Registered Breed is not, and all three are
+shown separately when results are published on the website.
 
 Results are often sent as separate tables per group, such as "4 dog rig All Breed" and "4 dog rig Registered Breed".
 That's fine, but make it clear that the tables are groups of **the same class**, not separate classes.
@@ -135,10 +135,11 @@ Purses aren't usually awarded to the Sportsman group or to junior classes. The r
 the usual practice is not to award purses to juniors.
 
 ::: note
-**A rule many RGOs don't know about.** In any class, the total Registered Breed purse may not exceed the total All Breed
-purse, and the amount for any placing in Registered Breed may not exceed the amount for the same placing in All Breed.
-See the [Registered Breed Group Standard](https://isdra.org/assets/documents/Registered_Breed_Group_Standard_2016-11.pdf),
-section D, paragraphs 1 and 3.
+**A rule many RGOs don't know about.** In any class, the purse for the Registered Breed group, or any other group, may
+not exceed the All Breed purse ([Sanctioning Requirements and Standards](https://isdra.org/assets/documents/SancReqsAdults2026.pdf),
+section B.4.g). For Registered Breed, the amount for any placing also may not exceed the amount for the same placing in
+All Breed ([Registered Breed Group Standard](https://isdra.org/assets/documents/Registered_Breed_Group_Standard_2016-11.pdf),
+section D, paragraphs 1 and 3).
 :::
 
 # Names
