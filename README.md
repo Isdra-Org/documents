@@ -1,14 +1,21 @@
 # ISDRA documents
 
-Guides for the International Sled Dog Racing Association (ISDRA): for RaceWorks users, for clubs and race-giving
-organizations (RGOs), and for anyone else involved in ISDRA racing. Each guide is written in Markdown and built
-into a PDF with a shared ISDRA look.
+Documents of the International Sled Dog Racing Association (ISDRA):
+
+- **Guides** for RaceWorks users, for clubs and race-giving organizations (RGOs), and for anyone else involved in
+  ISDRA racing. Each guide is written in Markdown and built into a PDF with a shared ISDRA look.
+- **Official documents**: the constitution, race rules, sanctioning requirements, programs, policies and forms, with
+  their earlier versions in the history (`git log` on a document's folder). They're in `governance/`, `rules/`,
+  `sanctioning/`, `programs/`, `policies/`, `proposals/`, `forms/` and `reference/`; `docs/inventory.md` lists them all.
+
+The official documents on [isdra.org](https://isdra.org) are the versions in force. Changes to them follow ISDRA's
+approval process; until a change is adopted, it's only a draft here.
 
 ## Guides
 
 | Guide | For | Status |
 |---|---|---|
-| [Configuring Excel for RaceWorks](Configuring%20Excel%20for%20RaceWorks/Configuring%20Excel%20for%20RaceWorks.pdf) | RaceWorks users: one-time Excel setup | Version 2026-10-03 |
+| [Configuring Excel for RaceWorks](Configuring%20Excel%20for%20RaceWorks/Configuring%20Excel%20for%20RaceWorks.pdf) | RaceWorks users: one-time Excel setup | Version 2026-10-08, for RaceWorks 2026.1 |
 | [Submitting Race Results to ISDRA](Submitting%20Race%20Results%20to%20ISDRA/Submitting%20Race%20Results%20to%20ISDRA.pdf) | Clubs and RGOs, after a sanctioned race | Draft |
 
 RaceWorks itself is maintained separately. Guides about RaceWorks say which RaceWorks version they describe.
