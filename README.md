@@ -16,7 +16,7 @@ approval process; until a change is adopted, it's only a draft here.
 | Guide | For | Status |
 |---|---|---|
 | [Configuring Excel for RaceWorks](guides/Configuring%20Excel%20for%20RaceWorks/Configuring%20Excel%20for%20RaceWorks.pdf) | RaceWorks users: one-time Excel setup | Version 2026-10-08, for RaceWorks 2026.1 |
-| [Submitting Race Results to ISDRA](guides/Submitting%20Race%20Results%20to%20ISDRA/Submitting%20Race%20Results%20to%20ISDRA.pdf) | Clubs and RGOs, after a sanctioned race | Draft |
+| [Submitting Race Results to ISDRA](guides/Submitting%20Race%20Results%20to%20ISDRA/Submitting%20Race%20Results%20to%20ISDRA.pdf) | Clubs and RGOs, after a sanctioned race | Version 2026-10-08 |
 
 RaceWorks itself is maintained separately. Guides about RaceWorks say which RaceWorks version they describe.
 

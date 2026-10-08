@@ -1,7 +1,7 @@
 ---
 title: Submitting Race Results to ISDRA
 subtitle: What clubs and race-giving organizations need to send after a sanctioned race
-date: "DRAFT 2026-10-08"
+date: "Version 2026-10-08"
 lang: en-US
 ---
 
