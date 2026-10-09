@@ -2,8 +2,10 @@
 
 Compiled 2026-10-08 from three sources:
 
-- **isdra.org**: the documents linked from the About, Rules, Programs and Policies pages (20 files, all under
-  `https://isdra.org/assets/documents/`).
+- **isdra.org**: the documents listed in the website's `documents.ts` (20 files, all under
+  `https://isdra.org/assets/documents/`). 19 are linked from the About, Rules, Programs and Policies pages; the
+  Adult National Championship Program is listed but not linked on any page (confirmed with the website session,
+  2026-10-08). The two guides added to the site later that day are not official documents and are not counted.
 - **The legacy site's Resources page** (`http://isdraorg000.web704.discountasp.net/Resources_Directory/`, 44 files
   under `/_PDFfiles/`). Many are byte-identical to the current files; the rest are older versions or documents the
   new site doesn't link.
@@ -55,7 +57,7 @@ the two may differ: check before editing either.
 | Junior Championship Points Program | 2018-05 | `Junior_Championship_Points_Program_2018-05.pdf` | yes |
 | Registered Breed Group Standard | 2016-11 | `Registered_Breed_Group_Standard_2016-11.pdf` | yes |
 | Event of the Year | 2018-05 | `Event_of_the_Year_2018-05.pdf` | yes |
-| Adult National Championship Program | 2004 [PDF 2005] | `National_Championship_Program_2004.pdf` | listed in `documents.ts` |
+| Adult National Championship Program | 2004 [PDF 2005] | `National_Championship_Program_2004.pdf` | listed in `documents.ts`, not linked |
 
 ## policies
 
