@@ -58,7 +58,7 @@ Every result line must belong, clearly, to one of the classes that were sanction
 class by four parts, often shortened to **DTCC**:
 
 | Part | Meaning | Examples |
-|---|---|---|
+|------|----------|----------------|
 | **D**ivision | Adult or Junior | Adult, Junior |
 | **T**ype | The kind of team | Sled, Rig, Bikejoring, Scooter, Canicross, Skijoring |
 | **C**lass | The number of dogs | 1 dog, 2 dog, 4 dog, 6 dog, Unlimited |
