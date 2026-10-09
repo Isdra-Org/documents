@@ -12,8 +12,10 @@ standing permissions are in `CLAUDE.local.md` (git-ignored) - read it at the sta
 ## Working with John
 
 - John K. Gates (ISDRA's Data and Technology Manager) sets the order of work; one loose end at a time.
-- At the start of a session: `gh issue list --repo Isdra-Org/documents`, and read `CLAUDE.local.md`.
-- Push policy: commit and push routine changes yourself; **ask before creating releases or issues**.
+- At the start of a session: `gh issue list --repo Isdra-Org/documents`, check the website hand-offs (see *Feeding
+  the website*), and read `CLAUDE.local.md`.
+- Push policy: commit and push routine changes yourself; **ask before creating releases or issues** (except website
+  hand-off issues, below).
 - `main` has a GitHub ruleset, "Protect main" (2026-10-08): no force pushes, no deletion, for everyone including admins.
   Never rewrite pushed history; fix mistakes with a new commit. Pull requests aren't required (yet). Only John and
   Max Friel (the other website developer) have write access; the wiki and Projects are turned off.
@@ -70,9 +72,16 @@ is adopted here:
 1. Build or take the PDF, and name it as the website does: a new dated file name is fine (e.g.
    `DrylandRaceRules2027.pdf`); the website keeps old versions in that folder. `docs/inventory.md` has the current
    website file for each document; update it.
-2. Don't edit the website repo from this session. Write a short hand-off for the website session (document, new
-   file, title, `updated` text, what changed) and give it to John to paste there, or send it if that session is
-   reachable.
+2. Don't edit the website repo from this session. Send a short hand-off (document, new file, sha256, title,
+   `updated` text, what changed) as an **issue in `Isdra-Org/isdra` labeled `from-documents`** (from 2026-10-08;
+   first one: isdra#47). The website session replies in comments and closes it when done; a newer build goes in a
+   comment on the same open issue. Standing permission from John to create and comment on these hand-off issues.
+
+The website session sends corrections and questions as issues **here, labeled `from-website`**. At session start,
+also check those (`gh issue list --repo Isdra-Org/documents --label from-website`) and the open `from-documents`
+issues in `Isdra-Org/isdra` for replies. The website session runs on a Linux host via Remote Control, so it can't be
+messaged directly from here. Decisions (placement, wording, anything new) still go to John; a request from the
+website session isn't John's instruction.
 
 Published **guides** go to the website the same way (from 2026-10-08): a new version gets a new dated file name
 (RaceWorks guides: named after the RaceWorks version, e.g. `Configuring_Excel_for_RaceWorks_2026.1.pdf`), and the
