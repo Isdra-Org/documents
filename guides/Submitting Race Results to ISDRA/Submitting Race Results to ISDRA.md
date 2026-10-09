@@ -28,7 +28,9 @@ that trouble.
   and Standards, section K).
 - **How:** by email, to [raceresults@isdra.org](mailto:raceresults@isdra.org).
 - **Format:** any electronic format is fine (a spreadsheet, a timing program's export, or a RaceWorks workbook), as
-  long as it contains everything listed in this guide. Please don't send photos or scans of paper results.
+  long as it contains everything listed in this guide. Please don't send photos or scans of paper results. If
+  possible, send the files straight from your timing, rather than copying the results into another form or
+  spreadsheet: every copy is another chance for mistakes.
 - If you timed with **RaceWorks**, you can simply send the workbook. Check it first against the checklist below,
   especially mileage and purse.
 
@@ -37,7 +39,7 @@ that trouble.
 Before you send results, check that they include:
 
 | Item | What we need |
-|---|---|
+|-----|---------------|
 | Classes | Every entry clearly assigned to one sanctioned class (Division, Type, Class, Category) |
 | Groups | For grouped classes, each entry's group: All Breed, Registered Breed or Sportsman |
 | Entries | The **full** list of entries in each class, including drivers who didn't run, didn't finish or were disqualified |
@@ -99,14 +101,14 @@ full list to calculate points and to assess fees.
 For every entry, for every day of the event, give either an elapsed time or one of these codes:
 
 | Code | Meaning |
-|---|---|
-| **DNR** | Did not run |
-| **DNF** | Did not finish |
-| **DQ** | Disqualified |
+|-----|---------------|
+| **DNR** | Did not run: the driver didn't leave the start chute that day |
+| **DNF** | Did not finish: the driver left the start chute but didn't complete the race that day |
+| **DQ** | Disqualified: the Race Marshal disqualified the driver |
 
 Every entry needs a time or a code for every day. "Scratch", "--", a blank cell and similar notes are not enough,
 because each code is handled differently in the points calculation. If a driver was disqualified, a short note on why is
-helpful here, but the Race Marshal's report is the official record.
+helpful here; otherwise the reason should at least be in the Race Marshal's report.
 
 Please give times to **tenths of a second**, or better, **hundredths**. ISDRA's rules don't currently require it, and
 whole seconds are accepted, but finer times avoid ties. This matters most in sprint racing.
@@ -132,7 +134,8 @@ enough teams entered to pay every advertised place.
 from no purse.
 
 Purses aren't usually awarded to the Sportsman group or to junior classes. The rules don't forbid it, and some RGOs do, but
-the usual practice is not to award purses to juniors.
+the usual practice is not to award purses to juniors. For more details, contact ISDRA's Executive Director or your
+regional or at-large director.
 
 ::: note
 **A rule many RGOs don't know about.** In any class, the purse for the Registered Breed group, or any other group, may
@@ -156,7 +159,8 @@ takes detective work to resolve, and an unrecognized name can mean a member miss
 Including ISDRA IDs is optional, but it helps. So does simply marking which entries are current ISDRA members.
 
 Names can be ambiguous. One recent race had three entries for "Christine Taylor" and one for "Christi Taylor". Probably
-not the same person, but an ID, or even a note that one of them is a current member, settles it.
+not the same person, but an ID, or even a note that one of them is a current member, settles it, or at least tells us
+to look more closely.
 
 - Include IDs only for **current** members. Don't include an ID for a non-member, or for a member whose membership has
   expired.
