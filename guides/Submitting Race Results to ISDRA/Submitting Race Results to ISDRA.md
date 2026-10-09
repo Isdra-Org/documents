@@ -142,13 +142,16 @@ regional or at-large director.
 not exceed the All Breed purse ([Sanctioning Requirements and Standards](https://isdra.org/assets/documents/SancReqsAdults2026.pdf),
 section B.4.g). For Registered Breed, the amount for any placing also may not exceed the amount for the same placing in
 All Breed ([Registered Breed Group Standard](https://isdra.org/assets/documents/Registered_Breed_Group_Standard_2016-11.pdf),
-section D, paragraphs 1 and 3).
+section D, paragraphs 1 and 3). Both documents are on [isdra.org](https://isdra.org), in the menu at the top of the
+page: the first under [**About ISDRA > Rules & Regulations**]{style="white-space: nowrap"}, the second under [**About ISDRA > Programs**]{style="white-space: nowrap"}, then
+**Registered Breed Group**.
 :::
 
 # Names
 
 Spell every name correctly, and as close as possible to the name on the driver's ISDRA profile. You can look members up
-in the [musher directory](https://isdra.org/mushers).
+in the musher directory on the ISDRA website: go to [isdra.org](https://isdra.org) and choose [**Mushers > Directory**]{style="white-space: nowrap"}
+in the menu at the top of the page, or go straight to [[isdra.org/mushers](https://isdra.org/mushers)]{style="white-space: nowrap"}.
 
 We match each name to an ISDRA member to award points. Drivers often register under a slightly different name from the
 one on their profile, such as Kathy instead of Katherine, or a maiden name instead of a married name. Each mismatch
@@ -164,7 +167,7 @@ to look more closely.
 
 - Include IDs only for **current** members. Don't include an ID for a non-member, or for a member whose membership has
   expired.
-- To find an ID, search the [musher directory](https://isdra.org/mushers) and open the member's profile. The ID is the
+- To find an ID, search for the member in the musher directory (see *Names* above) and open their profile. The ID is the
   20-character string of letters and numbers labeled **MusherID**, just under the name in the blue bar. It also
   appears in the profile page's web address, between `/mushers/` and `/race-record`.
 
