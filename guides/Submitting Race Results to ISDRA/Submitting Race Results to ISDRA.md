@@ -65,7 +65,7 @@ class by four parts, often shortened to **DTCC**:
 | **C**ategory | The kind of race | Speed (most races), Mid-distance, Distance |
 
 For most sprint races, a short name such as "2 dog bikejoring" is enough, and is taken to mean an adult speed class; add
-"Junior" for a junior class. The closer you are to the full DTCC, the better.
+"Junior" for a junior class. However, the closer you are to the full DTCC, the better.
 
 You can put several classes in one spreadsheet, as long as every entry shows which class it's in. For example, all the
 canicross results can share a sheet if each entry is marked men's or women's. If instead the class is only shown once,
