@@ -27,6 +27,7 @@ standing permissions are in `CLAUDE.local.md` (git-ignored) - read it at the sta
 - **RaceWorks** (capital W) in prose. Quote real paths and file names exactly.
 - Guides speak for ISDRA in the "we" voice where it fits; plain, friendly, no blame. **Official documents keep a
   formal voice** (they're rules, not guides).
+- Prefer **RGO** (race-giving organization; spell it out at first use) to "club" in new text (John, 2026-10-08).
 - Say **DTCC** for a class's Division / Type / Class / Category once it has been explained.
 - The race groups are **All Breed**, **Registered Breed** and **Sportsman**. Always "Sportsman", never the shortening
   "Sport", which crept in somewhere and causes confusion (John, 2026-10-08).
@@ -73,7 +74,8 @@ is adopted here:
 
 Published **guides** go to the website the same way (from 2026-10-08): a new version gets a new dated file name
 (RaceWorks guides: named after the RaceWorks version, e.g. `Configuring_Excel_for_RaceWorks_2026.1.pdf`), and the
-guide's issue records the final URL.
+guide's issue records the final URL. Guides for RGOs and timers are listed on https://isdra.org/about/for-rgos (the `rgo` list
+in `documents.ts`), not with the rules.
 
 ## RaceWorks guides and RaceWorks versions
 
