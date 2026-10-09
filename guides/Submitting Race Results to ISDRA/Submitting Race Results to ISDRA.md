@@ -167,11 +167,13 @@ to look more closely.
 
 - Include IDs only for **current** members. Don't include an ID for a non-member, or for a member whose membership has
   expired.
-- To find an ID, search for the member in the musher directory (see *Names* above) and open their profile. The ID is the
-  20-character string of letters and numbers labeled **MusherID**, just under the name in the blue bar. It also
-  appears in the profile page's web address, between `/mushers/` and `/race-record`.
+- To find an ID, search for the member in the musher directory (see *Names* above) and open their profile.
+- Check that the membership is current. Just above the name, a green dot and **Active** mean a current member; a red
+  dot and **Inactive** mean the membership has expired, so leave the ID out.
+- The ID is the 20-character string of letters and numbers labeled **MusherID**, just under the name in the blue bar.
+  It also appears in the profile page's web address, between `/mushers/` and `/race-record`.
 
-![A member's profile page on isdra.org, with the ISDRA ID circled under the name and in the web address](isdra-id.png){height=2.3in}
+![A current member's profile page on isdra.org ("Active" above the name), with the ISDRA ID circled under the name and in the web address](isdra-id.png){height=2.3in}
 
 # Unsanctioned classes
 
