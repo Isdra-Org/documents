@@ -27,6 +27,8 @@ standing permissions are in `CLAUDE.local.md` (git-ignored) - read it at the sta
 - **RaceWorks** (capital W) in prose. Quote real paths and file names exactly.
 - Guides speak for ISDRA in the "we" voice where it fits; plain, friendly, no blame. **Official documents keep a
   formal voice** (they're rules, not guides).
+- Guides are PDFs that may be printed: don't rely on a clickable link. Show the web address, or say where to find
+  it (e.g. **Mushers > Directory** in the menu at the top of isdra.org) (John, 2026-10-08).
 - Prefer **RGO** (race-giving organization; spell it out at first use) to "club" in new text (John, 2026-10-08).
 - Say **DTCC** for a class's Division / Type / Class / Category once it has been explained.
 - The race groups are **All Breed**, **Registered Breed** and **Sportsman**. Always "Sportsman", never the shortening
