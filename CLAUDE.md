@@ -9,6 +9,13 @@ This repo is **public** (`Isdra-Org/documents`): never commit passwords, member 
 anything copied from the private `Isdra-Org/raceworks` repo beyond what a guide needs. Local machine details, tools and
 standing permissions are in `CLAUDE.local.md` (git-ignored) - read it at the start of a session.
 
+## Pending hand-off
+
+- **Read `HANDOFF-rule-questions-for-isdra.md` at session start** (from the RaceWorks session, 2026-11-10): a
+  `needs-ruling` label, a pinned "Rule questions to bring to ISDRA" issue, and the first questions to file (tie
+  points at the 30th place, standings ties, open points-formula questions). John approved the idea; ask before creating
+  the label and issues. Remove this section and the file once done.
+
 ## Working with John
 
 - John K. Gates (ISDRA's Data and Technology Manager) sets the order of work; one loose end at a time.
