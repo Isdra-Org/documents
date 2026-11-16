@@ -4,6 +4,10 @@
 here still needs John's OK (push policy). When it's done, delete this file and its "Pending hand-off" note in
 `CLAUDE.md`.
 
+**Progress (2026-11-16, with John's OK):** label `needs-ruling` created; tracking issue #14, pinned. First questions
+filed: #12 (substitute driver for part of a race) and #13 (start-order requests). Still to do: file the three questions
+below (ask John first) and review #5-#8 for the label.
+
 ## Why
 
 RaceWorks, results processing and documents work all keep running into rules that are ambiguous, silent or
