@@ -9,12 +9,15 @@ This repo is **public** (`Isdra-Org/documents`): never commit passwords, member 
 anything copied from the private `Isdra-Org/raceworks` repo beyond what a guide needs. Local machine details, tools and
 standing permissions are in `CLAUDE.local.md` (git-ignored) - read it at the start of a session.
 
-## Pending hand-off
+## Rule questions for ISDRA
 
-- **Read `HANDOFF-rule-questions-for-isdra.md` at session start** (from the RaceWorks session, 2026-11-10): a
-  `needs-ruling` label, a pinned "Rule questions to bring to ISDRA" issue, and the first questions to file (tie
-  points at the 30th place, standings ties, open points-formula questions). John approved the idea; ask before creating
-  the label and issues. Remove this section and the file once done.
+A question only ISDRA can settle (a rule that's ambiguous, silent or contradictory) gets its own issue here, labeled
+`needs-ruling`, and a line in the pinned tracking issue #14, "Rule questions to bring to ISDRA" (set up 2026-11-16).
+Write each one to stand on its own: rule text with document, version and section, what's missing or in conflict,
+practice today, options. No member names, race details that identify people, or other member data (public repo). Link
+the private issue where it was found. Keep #14 up to date as questions open and close. On a ruling: update the document
+(a draft until adopted), close the issue, and open a `docs-impact` issue in `Isdra-Org/raceworks` if RaceWorks must
+change. Creating these issues still needs John's OK.
 
 ## Working with John
 
